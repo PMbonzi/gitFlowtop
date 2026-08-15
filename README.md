@@ -1,2 +1,2 @@
 # gitFlowtop
-Alteração feita no main principal.
+Alteração feita directo do GITHUB 2.
